@@ -1,13 +1,17 @@
+
+/* overal page margins */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* body background */
 body {
     background-color: #d9dcd6;
 }
 
+/* overall header style */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
@@ -15,17 +19,29 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+/* company logo style */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+h1 .seo {
     display: inline-block;
     font-size: 48px;
     color: #d9dcd6;
 }
+/* sets header style */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* navigation toolbar style */
 nav  {
     padding-top: 10px;
     margin-right: 20px;
@@ -48,11 +64,11 @@ nav a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* style of all small text on page */
 article {
     font-size: 16px;
 }
-
+/* sets image inbetween header and main section */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,6 +78,7 @@ article {
     background-position: center;
 }
 
+/* sets justification for the image in each main section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,12 +89,31 @@ article {
     margin-left: 25px;
 }
 
+/* overall style for main section */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+main section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* image size in main section */
+main section img {
+    max-height: 200px;
+}
+
+
+
+
+/* overall style for right margin section */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -96,12 +132,9 @@ aside section {
 
 
 
-aside section h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
 
+/* sets size and margin of aside section */
 aside section img {
     display: block;
     margin: 10px auto;
@@ -110,37 +143,13 @@ aside section img {
 
 
 
-main section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
 
 
-main section img {
-    max-height: 200px;
-}
-
-
-
-main section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
-
+/* overall footer style */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
     text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
 }

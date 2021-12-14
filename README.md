@@ -3,4 +3,5 @@ https://antieatingactivist.github.io/Horiseon-Website/
 
 This page is an exercize in refactoring including adding accessability functionality, search engine optimization, and descritpive semantic tags.
 
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/1414728/145940410-83cc55cc-4140-4f4b-aec5-2c6ba97fbf4f.png)
+![Screen Shot 2021-12-13 at 22 07 13](https://user-images.githubusercontent.com/1414728/145942600-ecc07427-8cdb-47ff-b15b-33ee84554ae5.png)
+

@@ -41,6 +41,11 @@ We have also made the page much more readable by people with special needs by ap
 What we've ended up with is a much more readable source code as demonstrated by our browser elements tab.
 <img width="448" alt="Screen Shot 2021-12-15 at 7 43 17 PM" src="https://user-images.githubusercontent.com/1414728/146304636-978ac7a8-f4a7-45cd-b594-5ab183dbb564.png">
 
+## Built With
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 

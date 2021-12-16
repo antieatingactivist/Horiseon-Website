@@ -21,7 +21,6 @@ For example, we've consolidated this code...
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 ```
 To this...
 ```
